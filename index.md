@@ -6,7 +6,7 @@ feature_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre
 ---
 
 The **20th International Conference on Quantum Physics and Logic (QPL 2023)** will
-take place from 17 July to 21 July 2023 at the [Institut Henri
+take place from 17 July to 21 July 2023 at [Institut Henri
 Poincaré](https://www.ihp.fr/en) in Paris, France.  Quantum Physics and Logic
 is an annual conference that brings together academic and industry researchers
 working on mathematical foundations of quantum computation, quantum physics,
@@ -31,23 +31,23 @@ All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone]
 
 Prospective speakers are invited to submit one (or more) of the following:
 
-* Proceedings submission. This consists of a 5-12 page paper. It must provide
+* **Proceedings submission.** This consists of a 5-12 page paper. It must provide
   sufficient evidence of results of genuine interest, in sufficient detail for
   the program committee to assess the merits of the work. Submissions of work
   in progress are encouraged, but must be more substantial than a research
   proposal.
-* Non-proceedings submission. This consists of a 3 page summary, together with
+* **Non-proceedings submission.** This consists of a 3 page summary, together with
   a link to a separate published paper or preprint. If the published paper or
-  preprint is not publicly available (e.g. not open access), then it should be
+  preprint is not publicly available (e.g., not open access), then it should be
   included in full after the summary.
-* Poster submission. This consists of a 3 page abstract of partial results or
+* **Poster submission.** This consists of a 3 page abstract of partial results or
   work in progress.
-
-* Programming tool submission. This consists of a 3 page description of a
+* **Programming tool submission.** This consists of a 3 page description of a
   programming tool or framework, with a strong preference for open-source
   contributions.
 
-Papers should be submitted via Easychair at the following [URL](https://www.easychair.org/my/conference?conf=qpl2023).
+Papers should be prepared using the [EPTCS style files](https://style.eptcs.org/)
+and submitted via [Easychair](https://www.easychair.org/my/conference?conf=qpl2023).
 
 ### Presentations
 
@@ -69,7 +69,7 @@ conference.
 
 ### Local Information
 
-The conference will take place at Institut Henri Poincaré in Paris, France.
+The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/en) in Paris, France.
 
 {% include map.html id="location" title="Conference Location" %}
 
