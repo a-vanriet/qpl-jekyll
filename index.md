@@ -31,11 +31,12 @@ All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone]
 
 Prospective speakers are invited to submit one (or more) of the following:
 
-* **Proceedings submission.** This consists of a 5-12 page paper. It must provide
-  sufficient evidence of results of genuine interest, in sufficient detail for
-  the program committee to assess the merits of the work. Submissions of work
-  in progress are encouraged, but must be more substantial than a research
-  proposal.
+* **Proceedings submission.** This consists of a 5-12 page paper. It must
+  provide sufficient evidence of results of genuine interest, in sufficient
+  detail for the program committee to assess the merits of the work.
+  Submissions of work in progress are encouraged, but must be more substantial
+  than a research proposal. Proceedings submissions should be prepared using
+  the [EPTCS style files](https://style.eptcs.org/).
 * **Non-proceedings submission.** This consists of a 3 page summary, together with
   a link to a separate published paper or preprint. If the published paper or
   preprint is not publicly available (e.g., not open access), then it should be
@@ -46,8 +47,7 @@ Prospective speakers are invited to submit one (or more) of the following:
   programming tool or framework, with a strong preference for open-source
   contributions.
 
-Papers should be prepared using the [EPTCS style files](https://style.eptcs.org/)
-and submitted via [Easychair](https://www.easychair.org/my/conference?conf=qpl2023).
+All submissions should be done via [Easychair](https://www.easychair.org/my/conference?conf=qpl2023).
 
 ### Presentations
 
