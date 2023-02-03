@@ -1,6 +1,6 @@
 ---
 title: QPL 2023
-feature_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg"
+feature_image: "images/louvre.jpg"
 # feature_text: |
 #   ## Quantum Physics and Logic 2023
 ---
@@ -102,3 +102,11 @@ Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any qu
 ### Previous QPL Editions
 
 An archive of all previous QPL editions is available [here](https://www.mathstat.dal.ca/~selinger/qpl/).
+
+###### Copyright
+
+The original image of the Louvre Museum ("La cour Napoléon du Musée du Louvre,
+et sa pyramide, à la tombée de la nuit") is by [Benh LIEU SONG](https://www.flickr.com/people/75729488@N03), it is licensed
+under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) and it is
+taken from
+[Wikipedia](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg).
