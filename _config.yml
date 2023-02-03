@@ -29,8 +29,8 @@ permalink: pretty
 logo: "/images/QPL-logo-final-no-title.svg"
 
 # Pagination
-paginate: 5
-paginate_path: blog/page:num
+# paginate: 5
+# paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
