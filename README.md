@@ -1,3 +1,3 @@
-# Jekyll files for QPL 2023 using the Alembic theme.
+# Jekyll files for QPL 2023 using the Alembic theme
 
-Starter kit for [Alembic](https://alembic.darn.es/)
+Starter kit for [Alembic](https://alembic.darn.es/).
