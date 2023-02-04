@@ -78,8 +78,6 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 {% include map.html id="location" title="Conference Location" %}
 
-Location via [OpenStreetMap](https://www.openstreetmap.org/#map=19/48.84420/2.34318&layers=N). 
-
 We will update the website with more relevant information at a later time.
 
 ### QPL 2023 Programme Committee
