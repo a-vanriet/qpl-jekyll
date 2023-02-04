@@ -47,7 +47,13 @@ Prospective speakers are invited to submit one (or more) of the following:
   programming tool or framework, with a strong preference for open-source
   contributions.
 
-All submissions should be done via [Easychair](https://www.easychair.org/my/conference?conf=qpl2023).
+Page limits exclude bibliography and appendices (which may be read at the
+discretion of reviewers). All submissions will be handled by
+[Easychair](https://www.easychair.org/my/conference?conf=qpl2023).
+
+There will be an award for Best Student Paper that will be determined by the
+Program Committee. Papers eligible for the award are those where all the
+authors are students at the time of submission.
 
 ### Presentations
 
@@ -56,9 +62,8 @@ to give a long or short talk, depending on the quality and maturity of the
 submission. Authors of accepted poster submissions will be invited to present
 their work at the poster session. Authors of accepted programming tool
 submissions will be invited to live demo their tool to conference attendees, at
-the same time as the poster session.  There will be an award for Best Student
-Paper at the discretion of the Program Committee. Papers eligible for the award
-are those where all the authors are students at the time of submission.
+the same time as the poster session.
+
 
 
 ### Conference Proceedings
@@ -101,7 +106,7 @@ Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any qu
 
 ### Previous QPL Editions
 
-An archive of all previous QPL editions is available [here](https://www.mathstat.dal.ca/~selinger/qpl/).
+An archive of all previous QPL editions is [available](https://www.mathstat.dal.ca/~selinger/qpl/).
 
 ###### Copyright
 
