@@ -19,8 +19,8 @@ linguistics, artificial intelligence, and causality) is also welcome.
 
 ### Important Dates
 
-* Abstract submission deadline: 1 March 2023
-* Paper submission deadline: 7 March 2023
+* Abstract submission deadline: 12 March 2023
+* Paper submission deadline: 17 March 2023
 * Notification: 1 May 2023
 * Registration deadline: TBA
 * Conference: 17 July -- 21 July 2023
@@ -49,7 +49,7 @@ Prospective speakers are invited to submit one (or more) of the following:
 
 Page limits exclude bibliography and appendices (which may be read at the
 discretion of reviewers). All submissions will be handled by
-[Easychair](https://www.easychair.org/my/conference?conf=qpl2023).
+[EasyChair](https://www.easychair.org/my/conference?conf=qpl2023).
 
 There will be an award for Best Student Paper that will be determined by the
 Program Committee. Papers eligible for the award are those where all the
