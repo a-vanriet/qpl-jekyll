@@ -19,8 +19,8 @@ linguistics, artificial intelligence, and causality) is also welcome.
 
 ### Important Dates
 
-* Abstract submission deadline: 12 March 2023
-* Paper submission deadline: 17 March 2023
+* Abstract submission deadline: ~~1 March~~ 12 March 2023
+* Paper submission deadline: ~~7 March~~ 17 March 2023
 * Notification: 1 May 2023
 * Registration deadline: TBA
 * Conference: 17 July -- 21 July 2023
