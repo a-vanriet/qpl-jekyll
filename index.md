@@ -80,6 +80,11 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 We will update the website with more relevant information at a later time.
 
+### QPL 2023 Programme Committee Chairs
+
+* [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
+* [Benoît Valiron](https://www.monoidal.net/) (LMF, CentraleSupelec, Université Paris-Saclay)
+
 ### QPL 2023 Programme Committee
 
 * [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) (Université Paris-Saclay)
@@ -89,9 +94,9 @@ We will update the website with more relevant information at a later time.
 * [Titouan Carette](https://lmf.cnrs.fr/Perso/TitouanCarette) (Center for Quantum Computing Science, University of Latvia)
 * [Ulysse Chabaud](https://sites.google.com/view/ulyssechabaud) (Inria)
 * [Giulio Chiribella](https://i.cs.hku.hk/~giulio/) (The University of Hong Kong)
-* [Bob Coecke](https://www.cs.ox.ac.uk/people/bob.coecke/) (Quantinuum)
+* [Bob Coecke](https://www.quantinuum.com/qai/bobcoecke) (Quantinuum)
 * [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Universidad Nacional de Quilmes & ICC (CONICET / Universidad de Buenos Aires))
-* [Ross Duncan](http://personal.strath.ac.uk/ross.duncan/) (Quantinuum)
+* [Ross Duncan](https://scholar.google.com/citations?user=iZpHwXwAAAAJ&hl=en) (Quantinuum)
 * [Pierre-Emmanuel Emeriau](https://scholar.google.com/citations?user=LcrJdgIAAAAJ&hl=fr) (Quandela)
 * [Yuan Feng](https://profiles.uts.edu.au/Yuan.Feng) (University of Technology Sydney)
 * [Stefano Gogioso](https://www.cs.ox.ac.uk/people/stefano.gogioso/) (University of Oxford)
@@ -100,26 +105,24 @@ We will update the website with more relevant information at a later time.
 * [Martti Karvonen](https://mysite.science.uottawa.ca/mkarvone/) (University of Ottawa)
 * [Kohei Kishida](https://kkishida.web.illinois.edu/) (University of Illinois Urbana-Champaign)
 * [Ravi Kunjwal](http://quic.ulb.ac.be/members/rkunjwal) (Université libre de Bruxelles)
-* [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
 * [Konstantinos Meichanetzidis](https://scholar.google.co.uk/citations?user=IH9fJM0AAAAJ&hl=en) (Quantinuum)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
 * [Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/) (McGill University)
 * [Simon Perdrix](https://members.loria.fr/SPerdrix/) (LORIA)
-* [Neil Ross](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/mathematics/julien-ross.html) (Dalhousie University)
+* [Neil Ross](https://mathstat.dal.ca/~neilr/) (Dalhousie University)
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
 * [Carlo Maria Scandolo](https://contacts.ucalgary.ca/info/math/profiles/1-9063259) (University of Calgary)
 * [John Selby](https://www.johnhselby.co.uk/) (ICTQT, University of Gdansk)
 * [Peter Selinger](https://www.mathstat.dal.ca/~selinger/) (Dalhousie University)
 * [Rui Soares Barbosa](https://www.ruisoaresbarbosa.com/) (INL – International Iberian Nanotechnology Laboratory)
 * [Pawel Sobocinski](https://www.ioc.ee/~pawel/) (Tallinn University of Technology)
-* [Isar Stubbe](http://www-lmpa.univ-littoral.fr/~stubbe/#publications) (Université du Littoral)
-* [Benoît Valiron](https://www.monoidal.net/) (LMF, CentraleSupelec, Université Paris-Saclay)
+* [Isar Stubbe](http://www-lmpa.univ-littoral.fr/~stubbe/) (Université du Littoral)
 * [Augustin Vanrietvelde](https://a-vanriet.github.io/) (Inria, LMF)
 * [Renaud Vilmart](https://rvilmart.github.io/) (Inria, LMF)
 * [Quanlong Wang](https://scholar.google.co.uk/citations?user=pGp18eQAAAAJ&hl=en) (Quantinuum)
 * [John van de Wetering](https://vdwetering.name/) (University of Amsterdam)
 * [Alexander Wilce](http://facstaff.susqu.edu/w/wilce/) (Susquehanna University)
-* [Mingsheng Ying](https://scholar.google.com.au/citations?user=jjPif6cAAAAJ&hl=en) (Tsinghua University)
+* [Mingsheng Ying](https://www.cs.tsinghua.edu.cn/csen/info/1186/4020.htm) (Tsinghua University)
 * [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria, LMF)
 
 ### QPL 2023 Organising Committee
