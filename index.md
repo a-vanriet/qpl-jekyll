@@ -80,12 +80,12 @@ The conference will take place at [Institut Henri Poincaré](https://www.ihp.fr/
 
 We will update the website with more relevant information at a later time.
 
-### QPL 2023 Programme Committee Chairs
+### Programme Committee Chairs
 
 * [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
 * [Benoît Valiron](https://www.monoidal.net/) (LMF, CentraleSupelec, Université Paris-Saclay)
 
-### QPL 2023 Programme Committee
+### Programme Committee
 
 * [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) (Université Paris-Saclay)
 * [Miriam Backens](https://www.cs.bham.ac.uk/~backensm/) (University of Birmingham)
@@ -125,7 +125,7 @@ We will update the website with more relevant information at a later time.
 * [Mingsheng Ying](https://www.cs.tsinghua.edu.cn/csen/info/1186/4020.htm) (Tsinghua University)
 * [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria, LMF)
 
-### QPL 2023 Organising Committee
+### Organising Committee
 
 * [Ulysse Chabaud](https://sites.google.com/view/ulyssechabaud) (Inria Paris, France)
 * [Pierre-Emmanuel Emeriau](https://scholar.google.com/citations?user=LcrJdgIAAAAJ&hl=fr) (Quandela, France)
