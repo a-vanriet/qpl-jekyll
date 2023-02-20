@@ -87,7 +87,7 @@ We will update the website with more relevant information at a later time.
 
 ### Programme Committee
 
-* [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) (Université Paris-Saclay)
+* [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) (Université Paris-Saclay, LMF)
 * [Miriam Backens](https://www.cs.bham.ac.uk/~backensm/) (University of Birmingham)
 * [Jonathan Barrett](https://www.cs.ox.ac.uk/people/jonathan.barrett/) (University of Oxford)
 * [Alessandro Bisio](https://fisica.unipv.it/personale/Persona.php?ID=172) (Università di Pavia)
@@ -104,6 +104,7 @@ We will update the website with more relevant information at a later time.
 * [Emmanuel Jeandel](https://members.loria.fr/EJeandel/) (LORIA)
 * [Martti Karvonen](https://mysite.science.uottawa.ca/mkarvone/) (University of Ottawa)
 * [Kohei Kishida](https://kkishida.web.illinois.edu/) (University of Illinois Urbana-Champaign)
+* [Aleks Kissinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/) (University of Oxford)
 * [Ravi Kunjwal](http://quic.ulb.ac.be/members/rkunjwal) (Université libre de Bruxelles)
 * [Konstantinos Meichanetzidis](https://scholar.google.co.uk/citations?user=IH9fJM0AAAAJ&hl=en) (Quantinuum)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
