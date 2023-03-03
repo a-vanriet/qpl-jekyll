@@ -115,7 +115,7 @@ We will update the website with more relevant information at a later time.
 * [Simon Perdrix](https://members.loria.fr/SPerdrix/) (LORIA)
 * [Neil Ross](https://mathstat.dal.ca/~neilr/) (Dalhousie University)
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
-* [Carlo Maria Scandolo](https://contacts.ucalgary.ca/info/math/profiles/1-9063259) (University of Calgary)
+* [Carlo Maria Scandolo](https://profiles.ucalgary.ca/carlo-maria-scandolo) (University of Calgary)
 * [John Selby](https://www.johnhselby.co.uk/) (ICTQT, University of Gdansk)
 * [Peter Selinger](https://www.mathstat.dal.ca/~selinger/) (Dalhousie University)
 * [Rui Soares Barbosa](https://www.ruisoaresbarbosa.com/) (INL – International Iberian Nanotechnology Laboratory)
