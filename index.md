@@ -85,6 +85,7 @@ We will update the website with more relevant information at a later time.
 
 * [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
 * [Benoît Valiron](https://www.monoidal.net/) (LMF, CentraleSupelec, Université Paris-Saclay)
+* [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria, LMF)
 
 ### Programme Committee
 
@@ -127,7 +128,6 @@ We will update the website with more relevant information at a later time.
 * [John van de Wetering](https://vdwetering.name/) (University of Amsterdam)
 * [Alexander Wilce](http://facstaff.susqu.edu/w/wilce/) (Susquehanna University)
 * [Mingsheng Ying](https://www.cs.tsinghua.edu.cn/csen/info/1186/4020.htm) (Tsinghua University)
-* [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria, LMF)
 
 ### Organising Committee
 
