@@ -85,7 +85,7 @@ We will update the website with more relevant information at a later time.
 
 * [Shane Mansfield](https://scholar.google.fr/citations?user=g6DV3UkAAAAJ&hl=en) (Quandela)
 * [Benoît Valiron](https://www.monoidal.net/) (LMF, CentraleSupelec, Université Paris-Saclay)
-* [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria, LMF)
+* [Vladimir Zamdzhiev](https://zamdzhiev.github.io/) (Inria, LMF)
 
 ### Programme Committee
 
@@ -138,7 +138,7 @@ We will update the website with more relevant information at a later time.
 * [Benoît Valiron](https://www.monoidal.net/)          (CentraleSupélec, Université Paris-Saclay, France)
 * [Augustin Vanrietvelde](https://a-vanriet.github.io/)   (Inria Saclay, France)
 * [Renaud Vilmart](https://rvilmart.github.io/)          (Inria Saclay, France)
-* [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/)      (Inria Saclay, France)
+* [Vladimir Zamdzhiev](https://zamdzhiev.github.io/)      (Inria Saclay, France)
 
 Feel free to email Vladimir Zamdzhiev `{first.last at inria dot fr}` with any questions or concerns.
 
