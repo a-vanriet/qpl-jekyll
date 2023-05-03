@@ -40,6 +40,8 @@ navigation_header:
   url: /#important-dates
 - title: Local Information
   url: /#local-information
+- title: Accepted Submissions
+  url: /accepted/
 
 # Footer nav
 navigation_footer:
