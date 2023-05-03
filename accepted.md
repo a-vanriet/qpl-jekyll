@@ -34,7 +34,7 @@ The following submissions to QPL 2023 have been accepted to appear in the procee
 * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
 * Cole Comfort. **The Algebra of Stabilizer Codes (Extended Abstract).**
 * Julien Codsi and John van de Wetering. **Classically Simulating Quantum Supremacy IQP Circuits through a Random Graph Approach.**
-* Pablo Arrighi, Am'Elia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
+* Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
 * Sebastian Horvat and Iulian Danut Toader. **Quantum logic and meaning.**
 * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
 * Chris Heunen and Nesta van der Schaaf. **Ordered locales.**
