@@ -5,7 +5,7 @@ feature_image: "/images/louvre.jpg"
 
 The following submissions to QPL 2023 have been accepted to appear in the proceedings or to be presented as a talk during the conference.  Software tool demos and posters will be announced later. 
 
-### Aceepted Proceeding Submissions
+### Accepted Proceedings Submissions
 
 * Jean-Simon Lemay and Robin Cockett. **Moore-Penrose Dagger Categories.**
 * Gejza Jenča and Bert Lindenhovius. **Quantum suplattices.**
@@ -22,7 +22,7 @@ The following submissions to QPL 2023 have been accepted to appear in the procee
 * Matthew Amy. **Complete equational theories for the sum-over-paths with unbalanced amplitudes.**
 * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
 
-### Aceepted Talk Submissions
+### Accepted Talk Submissions
 
 * Tatsuki Odake, Hlér Kristjánsson, Akihito Soeda and Mio Murao. **Higher-order quantum transformations of Hamiltonian dynamics.**
 * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.**
