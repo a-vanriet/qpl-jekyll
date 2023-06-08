@@ -42,6 +42,8 @@ navigation_header:
   url: /#local-information
 - title: Accepted Submissions
   url: /accepted/
+- title: Program
+  url: /program/
 
 # Footer nav
 navigation_footer:
