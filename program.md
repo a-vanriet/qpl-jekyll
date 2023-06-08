@@ -104,7 +104,7 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **Something Else.**
+* Room *Number*: **Name???.**
   * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
   * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
   * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
