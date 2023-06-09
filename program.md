@@ -141,7 +141,7 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **Name???**
+* Room *Number*: **Quantum Computation.**
   * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
   * Michael Zurel, Lawrence Cohen and Robert Raussendorf. **Simulation of quantum computation with magic states via Jordan-Wigner transformations.**
   * Filipa Peres. **The Pauli-based model of quantum computation with higher dimensional systems.**
