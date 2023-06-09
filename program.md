@@ -172,17 +172,17 @@ The conference dinner will take place at "Les Belles Plantes" located at [47 Rue
   * Matthew Amy. **Complete equational theories for the sum-over-paths with unbalanced amplitudes.**
   * Xiaoning Bian and Peter Selinger. **Generators and relations for 3-qubit Clifford+CS operators.**
   * Vivien Vandaele, Simon Martiel, Simon Perdrix and Christophe Vuillot. **Optimal Hadamard gate count for Clifford+T synthesis of Pauli rotations sequences.**
-* Room *Number*: **Name???.**
-  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
+* Room *Number*: **Information and disturbance.**
+  * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.**
   * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
-  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
+  * Leonardo Vaglini, Alessandro Tosini and Paolo Perinotti. **Information content of a source in post-quantum theories.**
 
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
 * Room *Number*: **Name???.**
-  * Gilad Gour, Mark Wilde, Sam Brandsen and Isabelle Geng. **Inevitability of knowing less than nothing.**
-  * Leonardo Vaglini, Alessandro Tosini and Paolo Perinotti. **Information content of a source in post-quantum theories.**
+  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
+  * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
 * Room *Number*: **Diagrammatic Calculi.**
   * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
