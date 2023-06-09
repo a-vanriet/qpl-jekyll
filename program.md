@@ -104,10 +104,10 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **Name???.**
+* Room *Number*: **Spacetime and resources.**
   * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
   * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
-  * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
+  * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
 * Room *Number*: **Error-correction.**
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
   * Cole Comfort. **The Algebra of Stabilizer Codes (Extended Abstract).**
@@ -174,7 +174,7 @@ The conference dinner will take place at "Les Belles Plantes" located at [47 Rue
   * Vivien Vandaele, Simon Martiel, Simon Perdrix and Christophe Vuillot. **Optimal Hadamard gate count for Clifford+T synthesis of Pauli rotations sequences.**
 * Room *Number*: **Name???.**
   * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
-  * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
+  * Leevi Leppäjärvi and Michal Sedlák. **Incompatibility of quantum instruments.**
   * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
 
 ##### 12:00 -- 14:00 **Lunch**
