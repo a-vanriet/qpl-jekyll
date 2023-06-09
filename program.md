@@ -56,9 +56,9 @@ Below is a *preliminary* program. It is subject to change!
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session
 * Room *Number*: **Foundations.**
-  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
   * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).**
   * V. Vilasini and Mischa Woods. **A general quantum circuit framework for consistent logical reasoning in Wigner’s friend scenarios.**
+  * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.**
 * Room *Number*: **Diagrammatic Calculi and Complexity.**
   * Piotr Mitosek. **Constructing NP^#P-complete problems and #P-hardness of circuit extraction in phase-free ZH.**
   * Tuomas Laakkonen, Konstantinos Meichanetzidis and John van de Wetering. **Picturing counting reductions with the ZH-calculus.**
@@ -67,14 +67,14 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **Foundations.**
-  * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.**
-  * Lorenzo Giannelli, Carlo Maria Scandolo and Giulio Chiribella. **Indeterminism and Bell nonlocality with classical systems.**
+* Room *Number*: **GPTs.**
   * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
-* Room *Number*: **Some Name for this???.**
-  * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
   * Gerd Niestegge. **Quantum transition probability and convex sets.**
+  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
+* Room *Number*: **Networks and entanglement.**
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
+  * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
+  * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
 
 ##### 15:30 -- 16:00 Break
 ##### 16:00 -- 17:00 Posters and Tool Demos
@@ -88,13 +88,13 @@ Below is a *preliminary* program. It is subject to change!
 ##### 09:00 -- 10:00 **Plenary Talks:**
 * Room *Number*.
   * Chris Heunen, Andre Kornell and Nesta van der Schaaf. **Axioms for the category of Hilbert spaces and linear contractions.**
-  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
+  * Samson Abramsky and Rui Soares Barbosa. **Contextuality in logical form: duality for transitive partial CABAs.**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session
 * Room *Number*: **Contextuality.**
+  * Beata Zjawin, David Schmid, Matty Hoban and Ana Belén Sainz. **Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages.**
   * Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield. **Generalised Winograd Schema and its Contextuality.**
-  * Samson Abramsky and Rui Soares Barbosa. **Contextuality in logical form: duality for transitive partial CABAs.**
   * Lorenzo Catani, Ricardo Faleiro, Pierre-Emmanuel Emeriau, Shane Mansfield and Anna Pappa. **Connecting XOR and XOR\* games.**
 * Room *Number*: **Quantum Logic and ???.**
   * Yunlong Xiao, Yuxiang Yang, Ximing Wang, Qing Liu and Mile Gu. **Quantum Uncertainty Principles for Measurements with Interventions.**
@@ -104,10 +104,10 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **Spacetime and resources.**
+* Room *Number*: **Spacetime and clocks.**
+  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
   * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
   * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
-  * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
 * Room *Number*: **Error-correction.**
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
   * Cole Comfort. **The Algebra of Stabilizer Codes (Extended Abstract).**
@@ -131,8 +131,7 @@ Below is a *preliminary* program. It is subject to change!
 ##### 10:30 -- 12:00 Parallel Session
 * Room *Number*: **Name???.**
   * Howard Barnum, Matthew Graydon and Alexander Wilce. **Locally Tomographic Shadows.**
-  * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
-  * Seungbeom Chin, Yong-Su Kim, Marcin Karczewski and Sangmin Lee. **Graph approach to generate multipartite entanglement with linear quantum networks.**
+  * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
 * Room *Number*: **Higher-order transformations.**
   * Ravi Kunjwal and Ognyan Oreshkov. **Nonclassicality in correlations without causal order.**
   * Alastair Abbott, Mehdi Mhalla and Pierre Pocreau. **Query Complexity of Boolean Functions under Indefinite Causal Order.**
@@ -142,7 +141,7 @@ Below is a *preliminary* program. It is subject to change!
 
 ##### 14:00 -- 15:30 Parallel Session
 * Room *Number*: **Quantum Computation.**
-  * Satoshi Yoshida, Akihito Soeda and Mio Murao. **Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations.**
+  * Jacques Carette, Chris Heunen, Robin Kaarsgaard and Amr Sabry. **The Quantum Effect: a recipe for QuantumPi.**
   * Michael Zurel, Lawrence Cohen and Robert Raussendorf. **Simulation of quantum computation with magic states via Jordan-Wigner transformations.**
   * Filipa Peres. **The Pauli-based model of quantum computation with higher dimensional systems.**
 * Room *Number*: **Diagrammatic Calculi.**
@@ -164,7 +163,8 @@ The conference dinner will take place at "Les Belles Plantes" located at [47 Rue
 ##### 09:00 -- 10:00 **Plenary Talks**
 * Room *Number*.
   * Yu-Fang Chen, Kai-Min Chung, Ondřej Lengál, Jyun-Ao Lin, Wei-Lun Tsai and Di-De Yen. **An Automata-based Framework for Verification and Bug Hunting in Quantum Circuits.**
-  * Matt Wilson, Giulio Chiribella and Aleks Kissinger. **Quantum Supermaps are Characterised by Locality.**
+  * Matt Wilson, Giulio Chiribella and Aleks Kissinger. **Quantum Supermaps are Characterised by Locality.** or 
+  * Matthew Wilson and Giulio Chiribella. **Polycategories of Supermaps on Monoidal Categories.**
 
 ##### 10:00 -- 10:30 **Break**
 ##### 10:30 -- 12:00 Parallel Session
@@ -181,8 +181,8 @@ The conference dinner will take place at "Les Belles Plantes" located at [47 Rue
 
 ##### 14:00 -- 15:30 Parallel Session
 * Room *Number*: **Name???.**
-  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
   * Anindita Bera, Giovanni Scala, Gniewkomir Sarbicki and Dariusz Chruściński. **Generalizing Choi map in $M_3$ beyond circulant scenario.**
+  * Thomas Theurer, Elia Zanoni, Carlo Maria Scandolo and Gilad Gour. **Thermodynamic state convertibility is determined by qubit cooling and heating.**
 * Room *Number*: **Diagrammatic Calculi.**
   * Boldizsár Poór, Robert I. Booth, Titouan Carette, John van de Wetering and Lia Yeh. **The Qupit Stabiliser ZX-travaganza: Simplified Axioms, Normal Forms and Graph-Theoretic Simplification.**
   * Tommy McElvanney and Miriam Backens. **Flow-preserving ZX-calculus rewrite rules for optimisation and obfuscation.**
