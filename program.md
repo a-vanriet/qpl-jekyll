@@ -156,6 +156,9 @@ Below is a *preliminary* program. It is subject to change!
 * Talk 2
 * Talk 3
 
+##### 19:00 -- 22:00 Conference Dinner
+The conference dinner will take place at "Les Belles Plantes" located at [47 Rue Cuvier](https://goo.gl/maps/QAZaN9ywTRRjjsXNA). It is a short walk (approximately 15 minutes) from the conference venue.
+
 ## Friday
 
 ##### 09:00 -- 10:00 **Plenary Talks**
