@@ -67,10 +67,10 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **GPTs.**
-  * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).**
-  * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
-  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
+* Room *Number*: **Spacetime and clocks.**
+  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
+  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
+  * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
 * Room *Number*: **Networks and entanglement.**
   * Pablo Arrighi, Amélia Durbec and Matt Wilson. **Generalized tensors and partial traces over quantum networks.**
   * Anita Buckley and Klemen Sivic. **New entanglement witnesses and entangled states.**
@@ -104,10 +104,10 @@ Below is a *preliminary* program. It is subject to change!
 ##### 12:00 -- 14:00 **Lunch**
 
 ##### 14:00 -- 15:30 Parallel Session
-* Room *Number*: **Spacetime and clocks.**
-  * V. Vilasini and Roger Colbeck. **Causal inference in non-classical theories and compatibility with spacetime structure.**
-  * Nuriya Nurgalieva, Ralph Silva and Renato Renner. **Reconstructing the waiting time of a clock using the simplest possible reference.**
-  * Caroline Jones, Stefan Ludescher, Albert Aloy and Markus Müller. **Theory-independent randomness generation with spacetime symmetries.**
+* Room *Number*: **GPTs.**
+  * David Schmid. **Macrorealism as strict classicality in the framework of generalized probabilistic theories (and how to falsify it).**
+  * Paulo Cavalcanti, John Selby and Ana Belen Sainz. **Every no-signalling channel is common-cause realizable.**
+  * Martin Plávala and Matthias Kleinmann. **Generalized dynamical theories in phase space and the hydrogen atom.**
 * Room *Number*: **Error-correction.**
   * Alex Townsend-Teague, Julio Magdalena de la Fuente and Markus Kesselring. **Re-Implementing Stabilizer Codes as Floquet Codes.**
   * Cole Comfort. **The Algebra of Stabilizer Codes (Extended Abstract).**
